@@ -9,7 +9,7 @@ const client = new Discord.Client();
 //-----------------------------🌿 RedshoT 🌿-------------------------------//
 //Congig.js Setting 
 
-const { timezone, format, clockchannel, updateinterval, token} = require('./config.js');
+const { timezone, format, clockchannel, updateinterval, token} = require('./Files/Config.js');
 //-----------------------------🌿 RedshoT 🌿-------------------------------//
 //Events 
 
